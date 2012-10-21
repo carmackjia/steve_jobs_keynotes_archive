@@ -1,0 +1,85 @@
+.. 1997:
+
+1990年 - 2000年
+=======================
+
+
+1997年1月 MacWorld
+^^^^^^^^^^^^^^^^^^^^^^^
+
+阿梅里奥啰嗦了两个多小时，最后终于把所有人都等着为之欢呼的人请上了台。“乔布斯大步跨上舞台，自信而有型，魅力四射，跟阿梅里奥的笨手笨脚形成了鲜明对照。”
+
+* `1997 MacWorld Steve jobs about NextStep`_
+
+1997年5月 WWDC
+^^^^^^^^^^^^^^^^^^^^^^^
+
+In 1997, WWDC'97 was the first show after the purchase of NeXT, and focused on the efforts to use OpenStep as the foundation of the next Mac OS. The plan at that time was to introduce a new system then known as Rhapsody, which would consist of a version of OpenStep modified with a more Mac-like look and feel, the Yellow Box, along with a Blue Box that allowed existing Mac applications to run under OS emulation. The show focused primarily on the work in progress, including a short history of the development efforts since the two development teams had been merged on February 4. Several new additions to the system were also demonstrated, including tabbed and outline views, and a new object-based graphics layer (NSBezier).
+
+* `1997 WWDC`_
+
+1997年8月 波士顿MacWorld大会
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1997年8月， 苹果的忠实拥护者聚集在波士顿的Macworld大会，场面极其火爆。超过5000人早来了几个小时，涌进公园广场酒店的城堡会议厅，等待乔布斯的主题演讲。
+
+* `1997 MacWorld@Boston`_
+
+
+1998年1月 旧金山Macworld大会
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+到1998年1月旧金山的Macworld大会上，乔布斯登上了一年前被阿梅里奥毁掉的舞台。他留着络腮胡子，穿着皮夹克。讲述着新的产品战略。在结束演讲时，他第一次使用了后来变成他标志性结束语的那句话：“噢，还有一件事儿 ...”， 这一次，“还有一件事儿”就是“考虑利润”。
+
+* `1998 MacWorld@SanFrancisco`_
+
+
+1998年，WWDC
+^^^^^^^^^^^^^^^^^^
+In 1998, In response to developer comments about the new operating system, the "big announcement" at WWDC'98 was the introduction ofCarbon. Carbon was effectively a version of the "classic" Mac OS API implemented on OpenStep. Under the original Rhapsody plans, classic applications would run in sandboxed installation of the classic Mac OS, (called the Blue Box) and have no access to the new Mac OS X features. To receive new features, such as protected memory and preemptive multitasking, developers would have to rewrite their applications using the Yellow Box API. Developer complaints about the major porting effort to what was then a shrinking market and warnings that they might simply abandon the platform, led Apple to reconsider the original plan. Carbon addressed the problem by dramatically reducing the effort needed, while exposing some of the new functionality of the underlying OS. Another major introduction at WWDC'98 was the Quartz imaging model, which replaced Display PostScript with something akin to "display PDF". Although the reasons for this switch remain unclear, Quartz also included better support for the existing QuickDraw model from the classic OS, as well (as it was later learned) as Java2D. Supporting QuickDraw directly in the graphics model also led to a related announcement, that the Blue Box would now be "invisible", integrated into the existing desktop as opposed to an entirely separate window.
+
+* `1998 WWDC`_
+
+1998年5月6日 iMac发布会
+^^^^^^^^^^^^^^^^^^^^^^^^
+在1984年的Mac发布会上，乔布斯就创造了一套新的舞台效果---产品发布会就像一场划时代的盛会。整场盛会以“要有光”的神圣时刻为高潮。天地分开、一束光射下来 ，天使歌唱、唱诗班合唱《哈利路亚》。而对此产品发布盛会，乔布斯有两个希望，一是使苹果公司起死回生，而是再次颠覆个人电脑的形象。因此，乔布斯特意为这次发布会选择了库比蒂诺市迪安扎社区大学的燧石礼堂，这也是1984年发布会的地点。
+
+* `1998 Apple Special Event`_
+
+1998年 纽约Macworld大会
+^^^^^^^^^^^^^^^^^^^^^^^^^
+The New York event inaugurated a competition (produced by Double Exposure) called the National Macintosh Gaming Championship, which challenged attendees to play games for a number of premium prize packages. Steve Jobs laid out his "Apple Hierarchy of Skepticism". The first level was Survival. They brought in a new management team, a new Board of Directors, and made a deal with Microsoft. The second level was a Stable Business. Steve covered the opening of the CompUSA stores and online store. The third level was Product Strategy. Steve covered the four product lines Apple would concentrate on. The first being the Power Macintosh G3. Apple had sold over 750,000 G3's to date. The next Pro product was the PowerBook G3. They had a 14.1" screen available. Steve announced they were bringing DVD Video to the PowerBook G3. The iMac would become the Consumer desktop product. The iMac had a G3/233 Processor with a 0.5MB backside cache, 15" Display (1024x768), 32 MB Memory, 4 GB Disk, 24x CD-ROM, 100 mb Ethernet, 12 Mb USB (2), and 33.6 Kb Modem. Steve announced they were upgrading the modem to a 56 Kb Modem. The iMac also included: 4 Mb IrDA, Stereo SRS Sound, and a keyboard and mouse. The iMac sold for $1,299. Steve announced the launch date was August 15, 1998 in the US. Steve spoke about the USB port. It was 30x faster than the old Apple serial ports. Up to 127 devices could be plugged into the USB port. It was Hot Plug-able. It had dynamic drivers. It was an emerging industry standard. Steve reviewed Apple's software strategy. It started with Mac OS 8 and Mac OS X. The modern features of Mac OS X were: Protected Memory, Virtual Memory, Preemptive Multitasking, Fast Networking, Fast File I/O, Fully PPC Native, and Runs OS 8 Apps. Mac OS 8.1 shipped in First Quarter 1998. Mac OS 8.5 would ship late Third Quarter 1998. Mac OS 8.6 was to be shipped in First Quarter 1999. Mac OS 8 Codename Sonata was to ship in Third Quarter 1999. Mac OS X Draft Spec was released during the Apple Worldwide Developers Conference in May 1998. Rhapsody (operating system) was being renamed Mac OS X Server and would be released late Third Quarter 1998. A Beta of Mac OS X would be shipped in First Quarter 1999. Mac OS X v10.0 would be shipped in Third Quarter 1999. Steve introduced Phil Schiller to show some of the features of Mac OS 8.5. Phil demoed the new search engine, Sherlock (software). Phil demoed a Network Copy Performance Test on a Power Macintosh G3 using Mac OS 8.5. The fourth level was Applications. Steve introduced Ben Waldman, General Manager of the Macintosh Business Unit at Microsoft. Ben announced that new iMacs would ship with Internet Explorer for Mac 4.01. Ben demoed Internet Explorer. iMac had been announced on May 6, 1998. Since that date, 177 apps had been announced for the Mac. Steve introduced Richard Wolpert, President of Disney Online. Richard demoed Disney Blast Online. The last level was Growth. By adding the Consumer market to the Design/Publishing markets and Education market, Apple's growth would become even stronger. Apple's unique assets were: The Brand, Installed Base, Design/Fashion, and Simplicity. Steve ran the "Simplicity Shootout" video.
+
+* `1998 Macworld@NY`_
+
+
+1999年 旧金山Macworld大会
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In San Francisco, Macworld was opened by HAL9000. Steve Jobs said his business cards finally arrived with "Steve Jobs, iCEO" printed on them. Steve announced a completely new family of desktop Pro products. The current Pro product was the Power Macintosh G3. It was announced in November 1997. They had sold over 1.6 million computers at the current time. This had generated over $3 billion in revenues. They set out four key goals for the next generation of the G3 product: Make the most powerful PC in the entire industry, Give the best graphics in the entire industry, Make the most expandable Macintosh ever, and Have the best design. The new 1999 G3's had 400 MHz usingCopper interconnect technology, Cache 200 MHz, and Memory 100 MHz. Steve introduced Phil Schiller to demo the new G3. Steve had a conversation with HAL 9000. The new G3 had ATI Rage 128 graphics with 16 MB Graphics Memory. Steve called Phil back out to demo the new graphics. The 3D Graphics Library would use Open GL. Apple Inc. announced they had licensed Open GL from Silicon Graphics. Steve introduced Rick Belluzzo, Chairman & CEO of Silicon Graphics. The G3 held up to a GB of memory. a 100 GB of disk storage using IBM 36 GB drives, four expansion slots using 64 bit PCI, I/O Ports using industry standards and high-speed serial ports and "plug and play". Ethernet ports meet that standard. A 100 Mbit is built in to the motherboard. Gigabit ethernet was available on the G3. Universal Serial Bus also met that standard. Lastly, FireWire met that standard. Steve demoed FireWire. Steve brought out the new Power Macintosh G3 (blue and white). Steve brought out three new Apple Studio Displays to go with the G3. Apple's fifth goal was to deliver an incredible value to their Pro customers. They priced the G3 to start at $1,599. The four models ranged from $1,599 to $2,999. They were available as of January 7, 1999. Steve ran the "Secret Door" and "Open Minded" commercials. Steve gave an update on Mac OS 8.5. Since shipping in October 1998, Apple had sold one million upgrade copies. There were two million copies out on the market in the first 90 days. Steve announced Mac OS X Server. It started off with a Mach kernel. They surrounded it with file service for Macintosh, NetBooting, Apache HTTP Server, WebObjects, and BSD and Java (programming language). Steve demoed Mac OS X Server using 50 iMacs. Apple priced the server at $995 per server. They were shipping it beginning in February 1999. 1,355 new and renewed Mac applications were announced between May 6, 1998-January 5, 1999. Steve introduced Ben Waldman, General Manager of the Macintosh Business Unit at Microsoft. Ben demoed Internet Explorer for Mac 4.5. He demoed the Mactopia website. Steve introduced John Carmack, Co-Founder of Id Software. John demoedQuake III Arena. Steve announced that Connectix would be releasing their Virtual Game Station which would turn the Mac into a Sony PlayStation. Steve had Phil come back out to demo the software. Steve gave an update on iMac. From August 15-December 31, 1998, Apple shipped 800,000 computers. This made iMac the number one selling computer in America. 32% of iMac's are first-time computer owners. 13% are Wintel converts. 25% of the former Macintosh owners are adding to their Macintosh's. 31% are replacing old Macintosh's. 82% of the first-time computer owners were connected to the internet. 66% got connected on the first day. 44% got connected in less than 15 minutes. 42% had purchased goods over the internet. 39% used Yahoo as their search engine. Sherlock (software) tied with Netscape at 8%, after being out for 90 days. In 1999, Apple was going to up the processor speed on the iMac to 266 MHz, up the drive capacity to a 6 GB drive, reduce the price to $1,199, and "one more thing" was colors. The new colors were blueberry, grape, tangerine, lime, and strawberry. These became available on January 7, 1999.
+
+* `1999 Macworld@SanFrancisco`_
+
+
+1999年 东京Macworld大会
+^^^^^^^^^^^^^^^^^^^^^^^^^
+In Tokyo, Macworld was opened by HAL900. Steve Jobs went over the four key goals for the next generation of the G3 product. Steve introduced Phil Schiller to demo the new G3. Steve called Phil back out to demo the new graphics. Steve demoed FireWire. Steve showed the new Power Macintosh G3 (blue and white). Steve showed the "Look of Love" video. Steve gave an update on iMac. It was the number one computer in Japan. 46% of iMac's in Japan are first-time owners. 16% are Wintel converts. 38% were existing Mac owners. Apple lowered the price of the iMac to 158,00 yen. Steve showed the "Colors" commercial. Over 900 new and renewed Mac applications were in Japanese. Steve invited Ben Waldman to speak about Microsoft's new products. Ben demoed Internet Explorer for Mac 4.5 and Outlook Express 4.5. Ben announced the release of Internet Explorer for Mac 5.0 in the summer of 2000 with Furigana characters. For the next two months, anyone that purchased Microsoft Office would receive a 40% discount. Steve demoed Quake III Arena. Steve announced that Connectix would be releasing their Virtual Game Station by the summer or possibly the fall of that year. Steve had Phil come back out to demo the software. Steve gave an update on Mac OS 8.5. Steve said Apple would be shipping Mac OS X in April in Japan. Steve demoed Mac OS X Server.
+
+* `1999 Macworld@Tokyo`_
+
+
+1999年，纽约Macworld大会
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+In New York, actor Noah Wyle made an appearance during the keynote address, posing as Jobs in a reference to his role in the TV moviePirates of Silicon Valley.[9] Steve Jobs gave a business update on Apple. Apple had announced a $500 million stock buyback. Apple had reduced its inventory to 15 hours. Mickey Drexler, of Gap Inc. joined Apple's Board of Directors. Steve spoke about QuickTime. Apple used QuickTime to make a Star Wars Episode 1 trailer. In the last few months, it had been downloaded over 23 million times. Apple had downloaded over 400 terabytes. Live Internet Streaming was added to QuickTime 4. There had been over 10 million downloads of the QuickTime Player. Steve announced QuickTime TV. Apple wrote a QuickTime streaming server that was free, no server tax. Apple partnered with Akamai Technologies to become a broadcast network. QuickTime TV had BBC World News, Bloomberg Television, Fox News, Fox Sports, HBO, NPR, The Weather Channel, and WGBH-TV. New content announced was ABC News, ESPN, Rolling Stone, VH1, and Disney. Steve invited Phil Schiller to demonstration QuickTime TV. Steve talked about Mac OS 9. It would ship in October 1999. It had more than 50 new features. Steve called Phil back out to demo Sherlock (software) 2. Mac OS 9 sold for $99. Steve gave an update on iMac. iMac would celebrate its first birthday on August 15, 1999. By the time it was one year old, Apple would have shipped 1.9 million computers. 89% of iMac users were on the internet. 33% were first-time buyers. It also would be the one-year anniversary of Apple adopting Universal Serial Bus. Since iMac was introduced, there had been 3,935 new and renewed Mac apps. Steve introduced Jason Jones (programmer), Co-Founder/Halo Project Lead of Bungie Software. Bungie was later purchased by Microsoft and Halo became an Xbox exclusive. Steve invited Ozzie Osborne, General Manager of IBM Speech Systems, to demo ViaVoice. Steve announced the new consumer portable computer, the iBook. iBook had a 12.1" TFT display, 800x600 resolution, ATI Rage Mobility graphics card with 4MB video memory, 300 MHz G3 processor with 512k backside LZ cache, 24x CD-ROM drive, 32 MB memory, 3.2 GB disk, 56K modem, USB, 10/100 ethernet, Full-size keyboard, and a 6-hour battery life. Steve demoed the iBook. The iBook would sell for $1,599 and would be available in September 1999. Steve showed four TV commercials for iBook. "One more thing", Steve demonstrated the new AirPort (wireless networking). It was a wireless LAN that ran at 11 megabits/sec and was based on industry standards. It was privacy protected with 40-bit data encryption. Steve showed the AirPort Base Station. It came with a 56K modem and 10/100 ethernet. Steve showed the AirPort card. The Base Station's range was up to 150 feet. The AirPort card sold for $99. The Base Station sold for $299. They would ship in September 1999. Steve showed a Base Station TV commercial. Steve demoed the iBook using AirPort. Phil joined Steve to demonstrate wireless networking by jumping into an airbag with an iBook.
+
+* `1999 Macworld@NY`
+
+
+.. _`1997 MacWorld Steve jobs about NextStep`: http://www.youtube.com/watch?v=QhhFQ-3w5tE&hd=1
+.. _`1997 WWDC`: http://www.youtube.com/watch?v=GnO7D5UaDig&hd=1
+.. _`1997 MacWorld@Boston`: http://www.youtube.com/watch?v=PEHNrqPkefI&hd=1
+.. _`1998 MacWorld@SanFrancisco`: http://www.youtube.com/playlist?list=PLRZziwLkpH0eFg35TFqD3dFhsgQLXnIH9&feature=mh_lolz
+.. _`1998 WWDC`: http://www.youtube.com/watch?v=ETRj67oA8jE&hd=1
+.. _`1998 Apple Special Event`: http://www.youtube.com/watch?v=OVPj289ISxY&hd=1
+.. _`1998 Macworld@NY`: http://www.youtube.com/playlist?list=PLRZziwLkpH0fJ_bczQ5FbRMyia5bKR-zG&feature=mh_lolz
+.. _`1999 Macworld@SanFrancisco`: http://www.youtube.com/playlist?list=PLRZziwLkpH0eWJDlo4b1cBR2w3K3jY_4-&feature=mh_lolz
+.. _`1999 Macworld@Tokyo`: http://www.youtube.com/playlist?list=PLF40D2427C86F52D0
+.. _`1999 Macworld@NY`: http://www.youtube.com/playlist?list=PL14E11A6176AE02F3
